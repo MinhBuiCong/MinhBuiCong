@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**MinhBuiCong/MinhBuiCong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Minh Bui
 
-Here are some ideas to get you started:
+I am a front-end developer at Visma Digital Commerce and have been working as a developer for 6 months. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my developing studies in August 2020 and will end June 2022. 
+
+My preferred tech stack is ReactJS with SASS. 
+
+You can reach me here: 
+
+LinkedIn: https://www.linkedin.com/in/minh-bui-cong/
+Instagram: https://www.instagram.com/minhb94/
+Facebook: https://www.facebook.com/MiBuCo/
+
+Fun facts: 
+
+- I have a degree in electrical engineering and is certified electrician
+- I love to climb, mostly bouldering
