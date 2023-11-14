@@ -2,7 +2,7 @@
 
 My name is Minh Bui
 
-I am a front-end developer at Twoday Norway and have been working as a developer for since January 2022. 
+I am a frontend developer at Twoday Norway and have been working as a developer for since January 2022. 
 
 I started my developing studies in August 2020 and will end June 2022. 
 
